@@ -1,0 +1,9 @@
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\bin\Debug\netcoreapp3.1\ECommerce.Core.deps.json
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\bin\Debug\netcoreapp3.1\ECommerce.Core.dll
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\bin\Debug\netcoreapp3.1\ECommerce.Core.pdb
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.AssemblyInfoInputs.cache
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.AssemblyInfo.cs
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.dll
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.pdb
+C:\Users\enesp\Desktop\ECommece\ECommerce.Core\obj\Debug\netcoreapp3.1\ECommerce.Core.csprojAssemblyReference.cache
